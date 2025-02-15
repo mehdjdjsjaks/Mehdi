@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+}
+
+.username {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.checkmark {
+    color: #0095f6; /* رنگ آبی تیک */
+    font-size: 40px;
+}
